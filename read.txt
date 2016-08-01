@@ -8,3 +8,4 @@ try to fix the conflict
 this was done on dev 
 now   we are on branch alan
 this is   branch dev   i am working~~
+this is branch dev
