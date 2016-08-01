@@ -6,3 +6,4 @@ github   push success~!
 this was done on branch dev~
 try to fix the conflict
 this was done on dev 
+now   we are on branch alan
